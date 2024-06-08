@@ -1,0 +1,12 @@
+.image-grids {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    grid-gap: 1px;
+  }
+  
+  .image-grids div {
+    text-align: center;
+  }
+  .image-grids div p{
+    font: 1.2em sans-serif;
+  }

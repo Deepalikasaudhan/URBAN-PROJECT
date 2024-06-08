@@ -1,0 +1,19 @@
+import womensSalonSpa from './assets/images/womens-salon-spa.png';
+import mensSalonMassage from './assets/images/mens-salon-massage.png';
+import acApplianceRepair from './assets/images/ac-appliance-repair.png';
+import cleaning from './assets/images/cleaning.png';
+import electricianPlumberCarpenter from './assets/images/electrician-plumber-carpenter.png';
+import nativeWaterPurifier from './assets/images/native-water-purifier.png';
+import nativeSmartLocks from './assets/images/native-smart-locks.png';
+import paintingWaterproofing from './assets/images/painting-waterproofing.png';
+
+const services = [
+  { image: womensSalonSpa, label: "Women's Salon & Spa" },
+  { image: mensSalonMassage, label: "Men's Salon & Massage" },
+  { image: acApplianceRepair, label: "AC & Appliance Repair" },
+  { image: cleaning, label: "Cleaning" },
+  { image: electricianPlumberCarpenter, label: "Electrician, Plumber & Carpenter" },
+  { image: nativeWaterPurifier, label: "Native Water Purifier" },
+  { image: nativeSmartLocks, label: "Native Smart Locks" },
+  { image: paintingWaterproofing, label: "Painting & Waterproofing" },
+];

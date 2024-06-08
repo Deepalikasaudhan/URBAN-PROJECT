@@ -1,0 +1,15 @@
+.image-grid1 {
+  
+    display: flex;
+    gap:30px;
+    margin-left: 100px;
+    /* gap: -50px; */
+    margin-left: 20px;
+  }
+  
+  .image-grid1 div {
+    text-align: center;
+  }
+  .image-grid1 div p{
+    font: 1.2em sans-serif;
+  }
